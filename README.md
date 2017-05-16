@@ -1,2 +1,1 @@
-# Video-Game-Survey
-Senior Seminar 
+This was the project I submitted for my Senior Seminar class. I did a survey comparing video game playing habits to peoples' demographics. It was very small. The sample size was about 40. The purpose was to practice doign your own research. I remember there was a bit of a debate between whether or not I should have included every graph I made. My mentor said not to, but the professor running the class wanted everything. The whole project was done in SPSS.
